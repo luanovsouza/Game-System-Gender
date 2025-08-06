@@ -1,0 +1,14 @@
+C:\Users\gamer\OneDrive\Documentos\Curso C# POO UDEMY\Desafios para treinar\Sistema-de-Jogos-com-Generos\Game-System\Game-System\bin\Debug\net9.0\Game-System.exe
+C:\Users\gamer\OneDrive\Documentos\Curso C# POO UDEMY\Desafios para treinar\Sistema-de-Jogos-com-Generos\Game-System\Game-System\bin\Debug\net9.0\Game-System.deps.json
+C:\Users\gamer\OneDrive\Documentos\Curso C# POO UDEMY\Desafios para treinar\Sistema-de-Jogos-com-Generos\Game-System\Game-System\bin\Debug\net9.0\Game-System.runtimeconfig.json
+C:\Users\gamer\OneDrive\Documentos\Curso C# POO UDEMY\Desafios para treinar\Sistema-de-Jogos-com-Generos\Game-System\Game-System\bin\Debug\net9.0\Game-System.dll
+C:\Users\gamer\OneDrive\Documentos\Curso C# POO UDEMY\Desafios para treinar\Sistema-de-Jogos-com-Generos\Game-System\Game-System\bin\Debug\net9.0\Game-System.pdb
+C:\Users\gamer\OneDrive\Documentos\Curso C# POO UDEMY\Desafios para treinar\Sistema-de-Jogos-com-Generos\Game-System\Game-System\obj\Debug\net9.0\Game-System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gamer\OneDrive\Documentos\Curso C# POO UDEMY\Desafios para treinar\Sistema-de-Jogos-com-Generos\Game-System\Game-System\obj\Debug\net9.0\Game-System.AssemblyInfoInputs.cache
+C:\Users\gamer\OneDrive\Documentos\Curso C# POO UDEMY\Desafios para treinar\Sistema-de-Jogos-com-Generos\Game-System\Game-System\obj\Debug\net9.0\Game-System.AssemblyInfo.cs
+C:\Users\gamer\OneDrive\Documentos\Curso C# POO UDEMY\Desafios para treinar\Sistema-de-Jogos-com-Generos\Game-System\Game-System\obj\Debug\net9.0\Game-System.csproj.CoreCompileInputs.cache
+C:\Users\gamer\OneDrive\Documentos\Curso C# POO UDEMY\Desafios para treinar\Sistema-de-Jogos-com-Generos\Game-System\Game-System\obj\Debug\net9.0\Game-System.dll
+C:\Users\gamer\OneDrive\Documentos\Curso C# POO UDEMY\Desafios para treinar\Sistema-de-Jogos-com-Generos\Game-System\Game-System\obj\Debug\net9.0\refint\Game-System.dll
+C:\Users\gamer\OneDrive\Documentos\Curso C# POO UDEMY\Desafios para treinar\Sistema-de-Jogos-com-Generos\Game-System\Game-System\obj\Debug\net9.0\Game-System.pdb
+C:\Users\gamer\OneDrive\Documentos\Curso C# POO UDEMY\Desafios para treinar\Sistema-de-Jogos-com-Generos\Game-System\Game-System\obj\Debug\net9.0\Game-System.genruntimeconfig.cache
+C:\Users\gamer\OneDrive\Documentos\Curso C# POO UDEMY\Desafios para treinar\Sistema-de-Jogos-com-Generos\Game-System\Game-System\obj\Debug\net9.0\ref\Game-System.dll
