@@ -12,3 +12,4 @@ C:\Users\gamer\OneDrive\Documentos\Curso C# POO UDEMY\Desafios para treinar\Sist
 C:\Users\gamer\OneDrive\Documentos\Curso C# POO UDEMY\Desafios para treinar\Sistema-de-Jogos-com-Generos\Game-System\Game-System\obj\Debug\net9.0\Game-System.pdb
 C:\Users\gamer\OneDrive\Documentos\Curso C# POO UDEMY\Desafios para treinar\Sistema-de-Jogos-com-Generos\Game-System\Game-System\obj\Debug\net9.0\Game-System.genruntimeconfig.cache
 C:\Users\gamer\OneDrive\Documentos\Curso C# POO UDEMY\Desafios para treinar\Sistema-de-Jogos-com-Generos\Game-System\Game-System\obj\Debug\net9.0\ref\Game-System.dll
+C:\Users\gamer\OneDrive\Documentos\Curso C# POO UDEMY\Desafios para treinar\Sistema-de-Jogos-com-Generos\Game-System\Game-System\obj\Debug\net9.0\Game-System.sourcelink.json

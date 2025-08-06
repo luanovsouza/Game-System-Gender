@@ -35,6 +35,7 @@ namespace Game_Gender
                 
                 NewGame.Add(game);
                 Console.WriteLine();
+                
             }
 
             Console.WriteLine("Qual genêro deseja buscar? ");
@@ -58,8 +59,7 @@ namespace Game_Gender
             {
                 Console.WriteLine("Gênero não encontrado!");
             }
-
-
+            
             Console.WriteLine();
 
             Console.WriteLine("Deseja excluir um jogo pelo nome? S/N");
